@@ -2,6 +2,8 @@
 Atlas is a new Bee Swarm Simulator script currently being developed with safety and performance as its focus. Atlas supports both tween and pathfinding and fires no remotes.
 ![68747470733a2f2f657874726f6e2e6e65746c6966792e6170702f61746c61732e706e67](https://github.com/user-attachments/assets/b63d0447-7245-4cee-a463-6191a9925c9b)
 
+also before u say its a rat view the code
+
 Version 0.8 Beta Changelogs:
 
     Fixed pathfinding getting stuck on wall at 35 bee zone
